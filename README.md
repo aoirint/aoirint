@@ -1,6 +1,9 @@
-### Hi there 👋
+[![aoirint's github stats](https://github-readme-stats.vercel.app/api?username=aoirint&count_private=true)](https://github.com/aoirint)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint)](https://github.com/aoirint)
 
 <!--
+### Hi there 👋
+
 **aoirint/aoirint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
