@@ -1,11 +1,9 @@
 [![aoirint's github stats](https://github-readme-stats.vercel.app/api?username=aoirint&count_private=true)](https://github.com/aoirint)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&layout=compact)](https://github.com/aoirint)
 
-実験的にリポジトリをOrganizationで分類しています
-
-- [単発制作物など](https://github.com/aoirint-sandbox)
-- [部屋センシング・オンライン化システム](https://github.com/aoirint-roomsystem)
+- [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
 - [Docker化関連](https://github.com/aoirint-docker)
+- [単発制作物など](https://github.com/aoirint-sandbox)
 
 <!--
 ### Hi there 👋
