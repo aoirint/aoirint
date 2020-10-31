@@ -4,7 +4,7 @@
 実験的にリポジトリをOrganizationで分類しています
 
 - [単発制作物など](https://github.com/aoirint-sandbox)
-- [部屋センシング](https://github.com/aoirint-roomsystem)
+- [部屋センシング・オンライン化システム](https://github.com/aoirint-roomsystem)
 - [Docker化関連](https://github.com/aoirint-docker)
 
 <!--
