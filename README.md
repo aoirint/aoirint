@@ -3,7 +3,6 @@
 
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
-- [単発制作物など](https://github.com/aoirint-sandbox)
 
 <!--
 ### Hi there 👋
