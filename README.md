@@ -7,6 +7,8 @@
 ## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
+- [スマブラSP 対戦画面解析](https://github.com/aoirint/SSBUFrameAnalyzer)
+- [PyTorch 画像+マスク4ch用Transformライブラリ](https://github.com/aoirint/BiImageTransform)
 
 <!--
 ### Hi there 👋
