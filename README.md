@@ -8,7 +8,7 @@
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
   - [行動科学ライブラリ PsyChoPy Docker化](https://github.com/aoirint/psychopy-docker)
-  - [GBAエミュレータ VBA-M Docker化](https://github.com/aoirint/vbam-docker)
+  - [GBAエミュレータ VisualBoyAdvance-M Docker化](https://github.com/aoirint/vbam-docker)
   - [録画ソフト mirakurun PX-Q1UD/PX-S1UD用 Docker化](https://github.com/aoirint/mirakurun-recdvb-docker)
   - [複数のdocker-compose.ymlとnginxによる多段リバースプロキシ設定例](https://github.com/aoirint/multiple-compose-nginx-routing)
   - [Python入りffmpeg Dockerイメージ](https://github.com/aoirint/ffmpeg-python-docker)
