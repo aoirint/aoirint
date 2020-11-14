@@ -25,7 +25,7 @@
   - [HEIC変換用 Imagemagick Dockerイメージ](https://github.com/aoirint/ImageMagickHeicDocker)
   - [Python入りopenpose Dockerイメージ](https://github.com/aoirint/openpose-python-docker)
     - [Python入りopenpose Dockerイメージ 使用例](https://github.com/aoirint/openpose-python-docker-template)
-- [スマブラSP 対戦画面解析](https://github.com/aoirint/SSBUFrameAnalyzer)
+- [スマブラSP 対戦画面情報抽出](https://github.com/aoirint/SSBUFrameAnalyzer)
 - [PyTorch 画像+マスク4ch用Transformライブラリ](https://github.com/aoirint/BiImageTransform)
 
 ## 記事
