@@ -5,6 +5,7 @@
 - [技術ブログ えやみぐさ](https://blog.aoirint.com/)
   - [Qiita](https://qiita.com/aoirint)
   - [旧ブログ はてなブログ](https://aoirint.hatenablog.com/)
+- [レジュメ（resume.id）](https://www.resume.id/aoirint)
   
 ## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
