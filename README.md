@@ -3,8 +3,9 @@
 
 - [Twitter @aoirint](https://twitter.com/aoirint)
 - [技術ブログ えやみぐさ](https://blog.aoirint.com/)
-  - [Qiita](https://qiita.com/aoirint)
   - [旧ブログ はてなブログ](https://aoirint.hatenablog.com/)
+  - [Qiita](https://qiita.com/aoirint)
+  - [Zenn](https://zenn.dev/aoirint)（登録だけ）
 - [レジュメ（resume.id）](https://www.resume.id/aoirint)
   
 ## 開発
