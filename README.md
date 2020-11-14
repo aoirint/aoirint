@@ -22,6 +22,13 @@
 - [スマブラSP 対戦画面解析](https://github.com/aoirint/SSBUFrameAnalyzer)
 - [PyTorch 画像+マスク4ch用Transformライブラリ](https://github.com/aoirint/BiImageTransform)
 
+## 記事
+- [ソース公開するArduinoプログラムに秘密情報を埋め込む](https://blog.aoirint.com/entry/2020/arduino_secret_info/)
+- [arduino-cliの使い方](https://blog.aoirint.com/entry/2020/arduino_cli_usage/)
+- [PulseAudioで特定のアプリケーションからの音声出力だけを分離する](https://blog.aoirint.com/entry/2020/pulseaudio_split_output/)
+- [ロータリエンコーダ付きステッピングモータをArduinoで制御して角度を取得する](https://blog.aoirint.com/entry/2020/stepping_motor/)
+- [静的サイトジェネレータMiyadaiku + GitHub Actions + GitHub Pagesでブログを作る](https://blog.aoirint.com/entry/2020/miyadaiku_github_actions/)
+
 <!--
 ### Hi there 👋
 
