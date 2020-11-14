@@ -1,6 +1,8 @@
 [![aoirint's github stats](https://github-readme-stats.vercel.app/api?username=aoirint&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- [技術ブログ えやみぐさ](https://blog.aoirint.com/)
+  - [旧ブログ はてなブログ](https://aoirint.hatenablog.com/)
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
 
