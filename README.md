@@ -11,7 +11,7 @@
 ## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
   - [センサ→Arduino→シリアル通信](https://github.com/aoirint/RoomSystemSensorArduino)
-  - [シリアル通信→Python→Firebase/MSTeams Incoming Webhook](https://github.com/aoirint/RoomSystemSensorConnector)
+  - [シリアル通信→Python→Firebase Realtime Database/MSTeams Incoming Webhook/スピーカ](https://github.com/aoirint/RoomSystemSensorConnector)
   - [MSTeams Outgoing Webhook→TypeScript→Firebase Realtime Database](https://github.com/aoirint/room-system-firebase)
   - [Firebase Realtime Database→Python→スピーカ](https://github.com/aoirint/RoomSystemBotClient)
   - [（古）Adventurer 3→Python→MSTeams Incoming Webhook](https://github.com/aoirint/RSAdventurer3)
