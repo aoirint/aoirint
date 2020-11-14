@@ -1,7 +1,9 @@
 [![aoirint's github stats](https://github-readme-stats.vercel.app/api?username=aoirint&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- [Twitter @aoirint](https://twitter.com/aoirint)
 - [技術ブログ えやみぐさ](https://blog.aoirint.com/)
+  - [Qiita](https://qiita.com/aoirint)
   - [旧ブログ はてなブログ](https://aoirint.hatenablog.com/)
   
 ## 開発
