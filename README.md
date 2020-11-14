@@ -7,6 +7,8 @@
 ## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
+  - [行動科学ライブラリ Psychopy Docker化](https://github.com/aoirint/psychopy-docker)
+  - [GBAエミュレータ VBA-M Docker化](https://github.com/aoirint/vbam-docker)
 - [スマブラSP 対戦画面解析](https://github.com/aoirint/SSBUFrameAnalyzer)
 - [PyTorch 画像+マスク4ch用Transformライブラリ](https://github.com/aoirint/BiImageTransform)
 
