@@ -15,6 +15,7 @@
   - [MSTeams Outgoing Webhook→TypeScript→Firebase Realtime Database](https://github.com/aoirint/room-system-firebase)
   - [Firebase Realtime Database→Python→スピーカ](https://github.com/aoirint/RoomSystemBotClient)
   - [（古）Adventurer 3→Python→MSTeams Incoming Webhook](https://github.com/aoirint/RSAdventurer3)
+  - [（古）センサ→ESP32→Firebase Realtime Database](https://github.com/aoirint/RoomSystemSensorESP32)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
   - [行動科学ライブラリ PsyChoPy Docker化](https://github.com/aoirint/psychopy-docker)
   - [GBAエミュレータ VisualBoyAdvance-M Docker化](https://github.com/aoirint/vbam-docker)
