@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Twitter @aoirint](https://twitter.com/aoirint)
-- [技術ブログ えやみぐさ](https://blog.aoirint.com/)
-  - [旧ブログ はてなブログ](https://aoirint.hatenablog.com/)
-  - [Qiita](https://qiita.com/aoirint)
-  - [Zenn](https://zenn.dev/aoirint)（登録だけ）
-- [レジュメ（resume.id）](https://www.resume.id/aoirint)
+- [技術ブログ えやみぐさ blog.aoirint.com](https://blog.aoirint.com/)
+  - [旧ブログ はてなブログ aoirint.hatenablog.com](https://aoirint.hatenablog.com/)
+  - [Qiita @aoirint](https://qiita.com/aoirint)
+  - [Zenn @aoirint](https://zenn.dev/aoirint)（登録だけ）
+- [レジュメ（resume.id） @aoirint](https://www.resume.id/aoirint)
   
 ## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
