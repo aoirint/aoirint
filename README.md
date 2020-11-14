@@ -10,6 +10,10 @@
   
 ## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
+  - [センサ→Arduino→シリアル通信](https://github.com/aoirint/RoomSystemSensorArduino)
+  - [シリアル通信→Python→Firebase/MSTeams Incoming Webhook](https://github.com/aoirint/RoomSystemSensorConnector)
+  - [MSTeams Outgoing Webhook→TypeScript→Firebase Realtime Database](https://github.com/aoirint/room-system-firebase)
+  - [Firebase Realtime Database→Python→スピーカ](https://github.com/aoirint/RoomSystemBotClient)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
   - [行動科学ライブラリ PsyChoPy Docker化](https://github.com/aoirint/psychopy-docker)
   - [GBAエミュレータ VisualBoyAdvance-M Docker化](https://github.com/aoirint/vbam-docker)
