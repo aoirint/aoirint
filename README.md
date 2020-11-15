@@ -5,7 +5,6 @@
 - [技術ブログ えやみぐさ blog.aoirint.com](https://blog.aoirint.com/)
   - [旧ブログ はてなブログ aoirint.hatenablog.com](https://aoirint.hatenablog.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
-  - [Zenn @aoirint](https://zenn.dev/aoirint)（登録だけ）
 - [レジュメ（resume.id） @aoirint](https://www.resume.id/aoirint)
   
 ## 開発
