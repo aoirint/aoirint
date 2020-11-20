@@ -16,7 +16,7 @@
   - [（古）Adventurer 3→Python→MSTeams Incoming Webhook](https://github.com/aoirint/RSAdventurer3)
   - [（古）センサ→ESP32→Firebase Realtime Database](https://github.com/aoirint/RoomSystemSensorESP32)
 - [Docker化関連](https://github.com/aoirint/Dockernize)
-  - [行動科学ライブラリ PsyChoPy Docker化](https://github.com/aoirint/psychopy-docker)
+  - [行動科学ライブラリ PsychoPy Docker化](https://github.com/aoirint/psychopy-docker)
   - [GBAエミュレータ VisualBoyAdvance-M Docker化](https://github.com/aoirint/vbam-docker)
   - [TVチューナソフト mirakurun PX-Q1UD/PX-S1UD用 Docker化](https://github.com/aoirint/mirakurun-recdvb-docker)
   - [複数のdocker-compose.ymlとnginxによる多段リバースプロキシ設定例](https://github.com/aoirint/multiple-compose-nginx-routing)
