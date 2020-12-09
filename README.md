@@ -1,5 +1,5 @@
-[![aoirint's github stats](https://github-readme-stats.vercel.app/api?username=aoirint&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![aoirint's github stats](https://github-readme-stats.vercel.app/api?username=aoirint&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Twitter @aoirint](https://twitter.com/aoirint)
 - [技術ブログ えやみぐさ blog.aoirint.com](https://blog.aoirint.com/)
