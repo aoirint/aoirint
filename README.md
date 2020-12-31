@@ -6,8 +6,12 @@
   - [旧ブログ はてなブログ aoirint.hatenablog.com](https://aoirint.hatenablog.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
 - [レジュメ（resume.id） @aoirint](https://www.resume.id/aoirint)
+
+
+
+<details>
+<summary>開発</summary>
   
-## 開発
 - [部屋センシング・オンライン化システム](https://github.com/aoirint/RoomSystem)
   - [センサ・ボタン→Arduino→シリアル通信](https://github.com/aoirint/RoomSystemSensorArduino)
   - [シリアル通信→Python→Firebase Realtime Database/MSTeams Incoming Webhook/スピーカ](https://github.com/aoirint/RoomSystemSensorConnector)
@@ -27,7 +31,12 @@
 - [スマブラSP 対戦画面情報抽出](https://github.com/aoirint/SSBUFrameAnalyzer)
 - [PyTorch 画像+マスク4ch用Transformライブラリ](https://github.com/aoirint/BiImageTransform)
 
-## 記事
+</details>
+
+
+<details>
+<summary>ブログ</summary>
+
 - [ソース公開するArduinoプログラムに秘密情報を埋め込む](https://blog.aoirint.com/entry/2020/arduino_secret_info/)
 - [arduino-cliの使い方](https://blog.aoirint.com/entry/2020/arduino_cli_usage/)
 - [PulseAudioで特定のアプリケーションからの音声出力だけを分離する](https://blog.aoirint.com/entry/2020/pulseaudio_split_output/)
@@ -39,6 +48,10 @@
 - [DjangoのDBをSQLite3からMySQL on Dockerに移行したメモ on Raspberry Pi 4B](https://qiita.com/aoirint/items/1a3cdda9f6b6faf3d8a6)
 - [Python Tkinter 入門メモ](https://qiita.com/aoirint/items/ca2386b68e8fec16ff53)
 - [Bluetooth PC-PC/Android-PC間通信（RFCOMM）](https://qiita.com/aoirint/items/d2cebec7a9e8c3680780)
+
+</details>
+
+
 
 <!--
 ### Hi there 👋
