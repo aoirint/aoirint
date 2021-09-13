@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact&theme=slateorange&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Twitter @aoirint](https://twitter.com/aoirint)
+- [aoirint.com](https://aoirint.com/)
 - [技術ブログ えやみぐさ blog.aoirint.com](https://blog.aoirint.com/)
-  - [旧ブログ はてなブログ aoirint.hatenablog.com](https://aoirint.hatenablog.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
 
 
