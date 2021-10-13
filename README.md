@@ -4,6 +4,7 @@
 - [Twitter @aoirint](https://twitter.com/aoirint)
 - [aoirint.com](https://aoirint.com/)
 - [技術ブログ えやみぐさ blog.aoirint.com](https://blog.aoirint.com/)
+  - [旧ブログ aoirint.hatenablog.com](https://aoirint.hatenablog.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
 
 
