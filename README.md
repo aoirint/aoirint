@@ -14,7 +14,8 @@
 <details>
 <summary>PGP public key</summary>
 
-Fingerprint: `EFA9 05B1 BAB7 B91E DFF0  5A3F 9404 6621 FF11 BC4B`
+- Fingerprint: `EFA9 05B1 BAB7 B91E DFF0  5A3F 9404 6621 FF11 BC4B`
+- 有効期限: 2024-06-11
 
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
