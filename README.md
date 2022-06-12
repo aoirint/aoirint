@@ -14,6 +14,8 @@
 <details>
 <summary>PGP public key</summary>
 
+Fingerprint: `EFA9 05B1 BAB7 B91E DFF0  5A3F 9404 6621 FF11 BC4B`
+
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
