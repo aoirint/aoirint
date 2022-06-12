@@ -15,7 +15,8 @@
 <summary>PGP public key</summary>
 
 - Fingerprint: `EFA9 05B1 BAB7 B91E DFF0  5A3F 9404 6621 FF11 BC4B`
-- 有効期限: 2024-06-11
+- 作成日時: 2022-06-13 06:22:31 JST, 2022-06-12 21:22:31 UTC
+- 有効期限: 2y0d0h0m（2024-06-12 JST, 2024-06-11 UTC)
 
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
