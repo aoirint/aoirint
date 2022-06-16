@@ -9,6 +9,13 @@
   - [Qiita @aoirint](https://qiita.com/aoirint)
 - [Keybase @aoirint](https://keybase.io/aoirint)
 
+<details>
+  <summary>その他</summary>
+
+- [gitea.aoirint.com](https://gitea.aoirint.com/)
+- [mstdn.aoirint.com](https://mstdn.aoirint.com/)
+
+</details>
 ---
 
 <details>
