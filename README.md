@@ -5,7 +5,6 @@
 - Webサイト管理用Organization：[aoirint-web](https://github.com/aoirint-web)
 - [aoirint.com](https://aoirint.com/)
 - [技術ノート blog.aoirint.com](https://blog.aoirint.com/)
-  - [技術ノート（旧） aoirint.hatenablog.com](https://aoirint.hatenablog.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
 - [Keybase @aoirint](https://keybase.io/aoirint)
 
