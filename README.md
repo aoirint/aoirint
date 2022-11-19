@@ -3,7 +3,6 @@
 
 - [Twitter @aoirint](https://twitter.com/aoirint)
 - [Mastodon @aoirint@mstdn.aoirint.com](https://mstdn.aoirint.com/@aoirint)
-- Webサイト管理用Organization：[aoirint-web](https://github.com/aoirint-web)
 - [aoirint.com](https://aoirint.com/)
 - [技術ノート blog.aoirint.com](https://blog.aoirint.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
