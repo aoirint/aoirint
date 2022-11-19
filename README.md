@@ -2,6 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoirint&langs_count=8&layout=compact&theme=slateorange&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Twitter @aoirint](https://twitter.com/aoirint)
+- [Mastodon @aoirint@mstdn.aoirint.com](https://mstdn.aoirint.com/@aoirint)
 - Webサイト管理用Organization：[aoirint-web](https://github.com/aoirint-web)
 - [aoirint.com](https://aoirint.com/)
 - [技術ノート blog.aoirint.com](https://blog.aoirint.com/)
@@ -12,7 +13,6 @@
   <summary>その他</summary>
 
 - [gitea.aoirint.com](https://gitea.aoirint.com/)
-- [mstdn.aoirint.com](https://mstdn.aoirint.com/)
 
 </details>
 ---
