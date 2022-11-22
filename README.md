@@ -7,6 +7,7 @@
 - [技術ノート blog.aoirint.com](https://blog.aoirint.com/)
   - [Qiita @aoirint](https://qiita.com/aoirint)
 - [Keybase @aoirint](https://keybase.io/aoirint)
+- [サービス稼働状況 status.aoirint.com](https://status.aoirint.com/)
 
 <details>
   <summary>その他</summary>
