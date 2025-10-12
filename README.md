@@ -3,8 +3,6 @@
 
 - [X @aoirint](https://x.com/aoirint)
 - [Mastodon @aoirint@mstdn.aoirint.com](https://mstdn.aoirint.com/@aoirint)
-- [個人サイト aoirint.com](https://aoirint.com/)
-- [技術ノート blog.aoirint.com](https://blog.aoirint.com/)
-  - [Qiita @aoirint](https://qiita.com/aoirint)
-- [個人Wiki wiki.aoirint.com](https://wiki.aoirint.com/)
-- [サービス稼働状況 status.aoirint.com](https://status.aoirint.com/)
+- [個人サイト aoirint.com](https://aoirint.com)
+- [ブログ blog.aoirint.com](https://blog.aoirint.com)
+- [個人Wiki wiki.aoirint.com](https://wiki.aoirint.com)
